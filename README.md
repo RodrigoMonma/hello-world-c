@@ -1,1 +1,1 @@
-# Um simples reposiório que define o começo de tudo
+# Um simples reposiório pra mostrar o ccomeço desssa jornada
